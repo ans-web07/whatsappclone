@@ -1,0 +1,9 @@
+TECH INVOLVED:
+react
+firebase firestore realtime db
+material UI
+React router
+React Context API
+Redux
+Google Authentication
+Deployment using firebase
